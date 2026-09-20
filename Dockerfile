@@ -1,4 +1,4 @@
-FROM ngnix
+FROM nginx
 EXPOSE 80
 MAINTAINER RAM
 LABEL this is my repo
